@@ -242,7 +242,8 @@ price/feature relationships in this dataset are highly non-linear.
 
 ## Screenshots
 
-*(Add screenshots of the running app here, e.g. the form page and the result page.)*
+![Home page](./docs/screenshot-home.png)
+![Result page](./docs/screenshot-result.png)
 
 ```
 ![Home page](./docs/screenshot-home.png)
