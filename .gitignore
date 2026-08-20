@@ -1,0 +1,19 @@
+# Python / venv
+.venv/
+.venv-1/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node / frontend build
+node_modules/
+dist/
+
+# Environment secrets
+.env
+
+# Logs
+*.log
+
+# Raw dataset (too large, download via README instead)
+notebooks/data/
